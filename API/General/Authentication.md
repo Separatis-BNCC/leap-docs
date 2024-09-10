@@ -17,10 +17,10 @@
     "status": 200,
     "message": "Success",
     "error": "",
-    data: {
-      token: "my-token-here",
-      role: 1,  
-      email: "example@gmail.com"
+    "data": {
+      "token": "my-token-here",
+      "role": 1,  
+      "email": "example@gmail.com"
     },
   }
 ```
